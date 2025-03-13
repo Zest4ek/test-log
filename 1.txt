@@ -1,0 +1,8 @@
+{"content":"```
+ansi[2;41m[2;37m[2;31m[2;37m[1;37m[1;37m %var_save(game_col) [0m[1;37m[1;41m[0m[2;37m[2;41m[0m[2;31m[2;41m[0m[2;37m[2;41m[0m[2;41m[0m[2;31m
+[2;30m[2;37m[2;42m[2;42m[2;43m[2;42m %var(time) [0m[2;37m[2;43m[0m[2;37m[2;42m[0m[2;37m[2;42m[0m[2;37m[0m[2;30m[0m
+[2;31mИскатели:[0m **%var(hunter)**
+[0m[2;34mХайдеры:[0m **%var(hiders)**
+
+[2;33mКарта:[0m **%var_save(name_map)**```
+```","username":"CONSOLE"}
